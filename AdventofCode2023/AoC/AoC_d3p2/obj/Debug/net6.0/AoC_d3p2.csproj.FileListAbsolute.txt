@@ -1,0 +1,14 @@
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\bin\Debug\net6.0\AoC_d3p2.exe
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\bin\Debug\net6.0\AoC_d3p2.deps.json
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\bin\Debug\net6.0\AoC_d3p2.runtimeconfig.json
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\bin\Debug\net6.0\AoC_d3p2.dll
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\bin\Debug\net6.0\AoC_d3p2.pdb
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.AssemblyInfoInputs.cache
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.AssemblyInfo.cs
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.csproj.CoreCompileInputs.cache
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.dll
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\refint\AoC_d3p2.dll
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.pdb
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\AoC_d3p2.genruntimeconfig.cache
+C:\Users\nberger\source\repos\AoC_new\AoC_d3p2\obj\Debug\net6.0\ref\AoC_d3p2.dll

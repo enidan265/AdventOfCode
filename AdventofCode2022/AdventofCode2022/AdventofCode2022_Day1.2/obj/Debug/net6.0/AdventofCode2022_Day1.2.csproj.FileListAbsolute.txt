@@ -1,0 +1,14 @@
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\bin\Debug\net6.0\AdventofCode2022_Day1.2.exe
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\bin\Debug\net6.0\AdventofCode2022_Day1.2.deps.json
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\bin\Debug\net6.0\AdventofCode2022_Day1.2.runtimeconfig.json
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\bin\Debug\net6.0\AdventofCode2022_Day1.2.dll
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\bin\Debug\net6.0\AdventofCode2022_Day1.2.pdb
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.AssemblyInfoInputs.cache
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.AssemblyInfo.cs
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.csproj.CoreCompileInputs.cache
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.dll
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\refint\AdventofCode2022_Day1.2.dll
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.pdb
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\AdventofCode2022_Day1.2.genruntimeconfig.cache
+C:\Users\nberger\source\repos\AdventofCode2022\AdventofCode2022_Day1.2\obj\Debug\net6.0\ref\AdventofCode2022_Day1.2.dll

@@ -1,0 +1,15 @@
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\AoC_d07p1.exe
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\AoC_d07p1.deps.json
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\AoC_d07p1.runtimeconfig.json
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\AoC_d07p1.dll
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\AoC_d07p1.pdb
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.GeneratedMSBuildEditorConfig.editorconfig
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.AssemblyInfoInputs.cache
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.AssemblyInfo.cs
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.csproj.CoreCompileInputs.cache
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.dll
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\refint\AoC_d07p1.dll
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.pdb
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\AoC_d07p1.genruntimeconfig.cache
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\obj\Debug\net6.0\ref\AoC_d07p1.dll
+N:\Programming\AdventOfCode\AdventofCode2023\AoC\AoC_d7p1\bin\Debug\net6.0\input.txt

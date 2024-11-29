@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2F5D52-7E85-40D5-ACE0-145478C30705}|AoC_d8p1\\AoC_d08p1.csproj|n:\\programming\\adventofcode\\adventofcode2023\\aoc\\aoc_d8p1\\aoc_d08p1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E2F5D52-7E85-40D5-ACE0-145478C30705}|AoC_d8p1\\AoC_d08p1.csproj|solutionrelative:aoc_d8p1\\aoc_d08p1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AoC_d08p1",
+              "DocumentMoniker": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d8p1\\AoC_d08p1.csproj",
+              "RelativeDocumentMoniker": "AoC_d8p1\\AoC_d08p1.csproj",
+              "ToolTip": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d8p1\\AoC_d08p1.csproj",
+              "RelativeToolTip": "AoC_d8p1\\AoC_d08p1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T19:33:02.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
