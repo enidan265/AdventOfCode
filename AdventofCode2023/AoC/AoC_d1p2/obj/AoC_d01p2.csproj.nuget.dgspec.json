@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj": {}
+    "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj": {}
   },
   "projects": {
-    "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj": {
+    "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj",
+        "projectUniqueName": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj",
         "projectName": "AoC_d01p2",
-        "projectPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj",
+        "projectPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\AoC_d01p2.csproj",
         "packagesPath": "C:\\Users\\nadin\\.nuget\\packages\\",
-        "outputPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\obj\\",
+        "outputPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\AoC_d02p2.csproj",
+      "projectUniqueName": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\AoC_d02p2.csproj",
       "projectName": "AoC_d02p2",
-      "projectPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\AoC_d02p2.csproj",
+      "projectPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\AoC_d02p2.csproj",
       "packagesPath": "C:\\Users\\nadin\\.nuget\\packages\\",
-      "outputPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\obj\\",
+      "outputPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d2p2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nadin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d7p1\\AoC_d07p1.csproj": {
-              "projectPath": "N:\\Programming\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d7p1\\AoC_d07p1.csproj"
+            "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d7p1\\AoC_d07p1.csproj": {
+              "projectPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d7p1\\AoC_d07p1.csproj"
             }
           }
         }

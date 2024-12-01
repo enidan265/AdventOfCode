@@ -1,0 +1,17 @@
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\AoC24_d1_2.exe
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\input.txt
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\input_test.txt
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\AoC24_d1_2.deps.json
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\AoC24_d1_2.runtimeconfig.json
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\AoC24_d1_2.dll
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\bin\Debug\net8.0\AoC24_d1_2.pdb
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.AssemblyInfoInputs.cache
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.AssemblyInfo.cs
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.csproj.CoreCompileInputs.cache
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.sourcelink.json
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.dll
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\refint\AoC24_d1_2.dll
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.pdb
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\AoC24_d1_2.genruntimeconfig.cache
+C:\Users\nadin\source\repos\AdventOfCode\AdventofCode2024\AdventOfCode2024\AoC24_d1_2\obj\Debug\net8.0\ref\AoC24_d1_2.dll
