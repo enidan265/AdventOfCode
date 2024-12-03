@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|solutionrelative:aoc_24_d3_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|solutionrelative:aoc_24_d3_2\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_2\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|solutionrelative:aoc_24_d3_2\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|solutionrelative:aoc_24_d3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_2\\aoc_24_d3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05A68FAA-85A1-417F-978F-DAEA04986FAB}|AoC_24_d3_2\\AoC_24_d3_2.csproj|solutionrelative:aoc_24_d3_2\\aoc_24_d3_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_1\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|solutionrelative:aoc_24_d3_1\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|solutionrelative:aoc_24_d3_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d3_1\\aoc_24_d3_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FF54B71-D947-45FD-800E-E36118524A38}|AoC_24_d3_1\\AoC_24_d3_1.csproj|solutionrelative:aoc_24_d3_1\\aoc_24_d3_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F62998ED-06A8-4337-B85B-D76D3ACDF0F2}|AoC_24_d2_1\\AoC_24_d2_1.csproj|c:\\users\\nberger\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F62998ED-06A8-4337-B85B-D76D3ACDF0F2}|AoC_24_d2_1\\AoC_24_d2_1.csproj|solutionrelative:aoc_24_d2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +54,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\input.txt",
+              "RelativeDocumentMoniker": "AoC_24_d3_2\\input.txt",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\input.txt",
+              "RelativeToolTip": "AoC_24_d3_2\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T08:41:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "input_test.txt",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\input_test.txt",
+              "RelativeDocumentMoniker": "AoC_24_d3_2\\input_test.txt",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\input_test.txt",
+              "RelativeToolTip": "AoC_24_d3_2\\input_test.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T08:40:00.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AoC_24_d3_2",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\AoC_24_d3_2.csproj",
+              "RelativeDocumentMoniker": "AoC_24_d3_2\\AoC_24_d3_2.csproj",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\AoC_24_d3_2.csproj",
+              "RelativeToolTip": "AoC_24_d3_2\\AoC_24_d3_2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T08:17:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\Program.cs",
+              "RelativeDocumentMoniker": "AoC_24_d3_2\\Program.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_2\\Program.cs",
+              "RelativeToolTip": "AoC_24_d3_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:16:57.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AoC_24_d3_1",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\AoC_24_d3_1.csproj",
+              "RelativeDocumentMoniker": "AoC_24_d3_1\\AoC_24_d3_1.csproj",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\AoC_24_d3_1.csproj",
+              "RelativeToolTip": "AoC_24_d3_1\\AoC_24_d3_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T07:39:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "input_test.txt",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\input_test.txt",
+              "RelativeDocumentMoniker": "AoC_24_d3_1\\input_test.txt",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\input_test.txt",
+              "RelativeToolTip": "AoC_24_d3_1\\input_test.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T07:39:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\input.txt",
+              "RelativeDocumentMoniker": "AoC_24_d3_1\\input.txt",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\input.txt",
+              "RelativeToolTip": "AoC_24_d3_1\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T07:39:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\Program.cs",
+              "RelativeDocumentMoniker": "AoC_24_d3_1\\Program.cs",
+              "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d3_1\\Program.cs",
+              "RelativeToolTip": "AoC_24_d3_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:39:09.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AoC_24_d2_2.csproj",
               "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d2_2\\AoC_24_d2_2.csproj",
               "RelativeDocumentMoniker": "AoC_24_d2_2\\AoC_24_d2_2.csproj",
@@ -34,11 +170,12 @@
               "RelativeToolTip": "AoC_24_d2_2\\AoC_24_d2_2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T08:06:59.283Z"
+              "WhenOpened": "2024-12-02T08:06:59.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d2_2\\Program.cs",
               "RelativeDocumentMoniker": "AoC_24_d2_2\\Program.cs",
@@ -46,18 +183,17 @@
               "RelativeToolTip": "AoC_24_d2_2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:06:34.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T08:06:34.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d2_1\\Program.cs",
               "RelativeDocumentMoniker": "AoC_24_d2_1\\Program.cs",
               "ToolTip": "C:\\Users\\nberger\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d2_1\\Program.cs",
               "RelativeToolTip": "AoC_24_d2_1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T07:26:30.872Z",
               "EditorCaption": ""
