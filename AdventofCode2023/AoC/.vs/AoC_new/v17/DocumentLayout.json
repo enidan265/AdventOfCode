@@ -52,15 +52,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AoC_d01p1",
+              "Title": "AoC_d01p1.csproj",
               "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p1\\AoC_d01p1.csproj",
               "RelativeDocumentMoniker": "AoC_d1p1\\AoC_d01p1.csproj",
               "ToolTip": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2023\\AoC\\AoC_d1p1\\AoC_d01p1.csproj",
               "RelativeToolTip": "AoC_d1p1\\AoC_d01p1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T07:29:18.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T07:29:18.037Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "AoC_d10p1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T19:57:24.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:57:24.183Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "AoC_d10p1\\AoC_d10p1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T19:53:39.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:53:39.435Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "AoC_d8p1\\AoC_d08p1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-18T19:33:02.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:33:02.786Z"
             }
           ]
         }
