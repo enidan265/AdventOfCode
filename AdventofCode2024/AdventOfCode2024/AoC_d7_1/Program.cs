@@ -19,9 +19,6 @@ foreach(string line in input)
 
 Console.WriteLine(result);
 
-
-// 3267: 81 40 27
-
 bool CheckPossibleEquation(double testValue, double[] numbers)
 {
     double possibleCombinations = (int)Math.Pow(2, numbers.Length);
