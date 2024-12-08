@@ -1,7 +1,6 @@
 ﻿
 // Funktioniert noch nicht, testinput klappt, echter input nicht 
 
-
 FileStream fileStream = File.OpenRead("input.txt");
 StreamReader streamReader = new StreamReader(fileStream);
 
@@ -31,7 +30,8 @@ int sumMiddleNums = 0;
 
 foreach (var update in updates)
 {
-    bool validUpdate = true;
+    bool validUpdate = false;
+    int[] sortedUpdate = new int[update.Length];
     foreach (int page in update)
     {
         foreach (var rule in rules)
@@ -40,27 +40,81 @@ foreach (var update in updates)
             {
                 if (!CheckCorrectOrder(page, rule, update, 0))
                 {
-                    validUpdate = false;
-                    SwitchPositions(page, rule[1], update);
+                    sortedUpdate = TopologicalSort(update);
+                    validUpdate = true;
+                    break;
                 }    
             }
             else if (rule[1] == page && update.Contains(rule[0]))
             {
                 if (!CheckCorrectOrder(page, rule, update, 1))
                 {
-                    validUpdate = false;
-                    SwitchPositions(page, rule[0], update);
+                    sortedUpdate = TopologicalSort(update);
+                    validUpdate = true;
+                    break;
                 }
             }
         }
+        if (validUpdate)
+        {
+            break;
+        }
     }
-    if (!validUpdate)
+    if (validUpdate)
     {
-        sumMiddleNums += update[update.Length / 2];
+        int middleNums = sortedUpdate[sortedUpdate.Length / 2];
+        sumMiddleNums += sortedUpdate[sortedUpdate.Length / 2];
     }
 }
 
 Console.WriteLine(sumMiddleNums);
+
+int[] TopologicalSort(int[] update)
+{
+    var graph = new Dictionary<int, List<int>>();
+    var inDegree = new Dictionary<int, int>();
+
+    // Initialisiere den Graph und In-Degree-Map
+    foreach (var page in update)
+    {
+        graph[page] = new List<int>();
+        inDegree[page] = 0;
+    }
+
+    // Baue den Graph basierend auf den Regeln
+    foreach (var rule in rules)
+    {
+        if (graph.ContainsKey(rule[0]) && graph.ContainsKey(rule[1]))
+        {
+            graph[rule[0]].Add(rule[1]);
+            inDegree[rule[1]]++;
+        }
+    }
+
+    // Knoten mit In-Degree 0 finden
+    var queue = new Queue<int>(inDegree.Where(kvp => kvp.Value == 0).Select(kvp => kvp.Key));
+    var sorted = new List<int>();
+
+    // Knoten in topologischer Reihenfolge sortieren
+    while (queue.Count > 0)
+    {
+        var node = queue.Dequeue();
+        sorted.Add(node);
+
+        foreach (var neighbor in graph[node])
+        {
+            inDegree[neighbor]--;
+            if (inDegree[neighbor] == 0) queue.Enqueue(neighbor);
+        }
+    }
+
+    return sorted.ToArray(); 
+}
+
+
+
+
+
 
 
 bool CheckCorrectOrder(int page, int[] rule, int[] update, int positionPageInRule)
@@ -81,12 +135,3 @@ bool CheckCorrectOrder(int page, int[] rule, int[] update, int positionPageInRul
     return false;
 }
 
-void SwitchPositions(int firstPage, int secondPage, int[] update)
-{
-    int indexFirstPage = Array.IndexOf(update, firstPage);
-    int indexSecondPage = Array.IndexOf(update, secondPage);
-
-    int temp = update[indexFirstPage];
-    update[indexFirstPage] = update[indexSecondPage];
-    update[indexSecondPage] = temp;
-}
