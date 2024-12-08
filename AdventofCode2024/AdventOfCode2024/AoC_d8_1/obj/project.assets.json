@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_d8_1\\AoC_24_d8_1.csproj",
-      "projectName": "AoC_24_d8_1",
-      "projectPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_d8_1\\AoC_24_d8_1.csproj",
+      "projectUniqueName": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_d8_1\\AoC_d8_1.csproj",
+      "projectName": "AoC_d8_1",
+      "projectPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_d8_1\\AoC_d8_1.csproj",
       "packagesPath": "C:\\Users\\nadin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_d8_1\\obj\\",
       "projectStyle": "PackageReference",
