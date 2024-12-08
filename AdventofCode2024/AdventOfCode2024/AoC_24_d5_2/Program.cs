@@ -2,7 +2,7 @@
 // Funktioniert noch nicht, testinput klappt, echter input nicht 
 
 
-FileStream fileStream = File.OpenRead("input_test.txt");
+FileStream fileStream = File.OpenRead("input.txt");
 StreamReader streamReader = new StreamReader(fileStream);
 
 List<int[]> rules = new List<int[]>();
@@ -44,7 +44,7 @@ foreach (var update in updates)
                     SwitchPositions(page, rule[1], update);
                 }    
             }
-            else if (rule[1] == page && update.Contains(rule[1]))
+            else if (rule[1] == page && update.Contains(rule[0]))
             {
                 if (!CheckCorrectOrder(page, rule, update, 1))
                 {
