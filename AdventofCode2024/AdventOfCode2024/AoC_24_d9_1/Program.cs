@@ -4,9 +4,7 @@ string input = File.ReadAllText("input.txt");
 long result = 0;
 
 List<int> translatedBlocks = TranslateBlocks(input);
-
 List<int> movedBlocks = MoveBlocks(translatedBlocks);
-
 result = GenerateCheckSum(movedBlocks);
 
 Console.WriteLine(result);
@@ -40,7 +38,6 @@ List<int> TranslateBlocks(string input)
     }
     return translated;
 }
-
 
 List<int> MoveBlocks(List<int> translatedBlocks)
 {

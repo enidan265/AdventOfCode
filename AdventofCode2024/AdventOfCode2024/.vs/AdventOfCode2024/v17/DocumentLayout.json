@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E5155A9-A4D6-4512-83A5-F6254C61B9B1}|AoC_24_d9_1\\AoC_24_d9_1.csproj|c:\\users\\nadin\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E5155A9-A4D6-4512-83A5-F6254C61B9B1}|AoC_24_d9_1\\AoC_24_d9_1.csproj|solutionrelative:aoc_24_d9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D1291E7-A542-4907-8437-F74B5000EAC3}|AoC_24_d10_1\\AoC_24_d10_1.csproj|c:\\users\\nadin\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1291E7-A542-4907-8437-F74B5000EAC3}|AoC_24_d10_1\\AoC_24_d10_1.csproj|solutionrelative:aoc_24_d10_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E5155A9-A4D6-4512-83A5-F6254C61B9B1}|AoC_24_d9_1\\AoC_24_d9_1.csproj|c:\\users\\nadin\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d9_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7E5155A9-A4D6-4512-83A5-F6254C61B9B1}|AoC_24_d9_1\\AoC_24_d9_1.csproj|solutionrelative:aoc_24_d9_1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9D1291E7-A542-4907-8437-F74B5000EAC3}|AoC_24_d10_1\\AoC_24_d10_1.csproj|c:\\users\\nadin\\source\\repos\\adventofcode\\adventofcode2024\\adventofcode2024\\aoc_24_d10_1\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D1291E7-A542-4907-8437-F74B5000EAC3}|AoC_24_d10_1\\AoC_24_d10_1.csproj|solutionrelative:aoc_24_d10_1\\input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "input.txt",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d9_1\\input.txt",
-              "RelativeDocumentMoniker": "AoC_24_d9_1\\input.txt",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d9_1\\input.txt",
-              "RelativeToolTip": "AoC_24_d9_1\\input.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Title": "input_test.txt",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d10_1\\input_test.txt",
+              "RelativeDocumentMoniker": "AoC_24_d10_1\\input_test.txt",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d10_1\\input_test.txt",
+              "RelativeToolTip": "AoC_24_d10_1\\input_test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-09T09:01:44.186Z",
+              "WhenOpened": "2024-12-10T21:01:13.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d9_1\\Program.cs",
-              "RelativeDocumentMoniker": "AoC_24_d9_1\\Program.cs",
-              "ToolTip": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d9_1\\Program.cs",
-              "RelativeToolTip": "AoC_24_d9_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d10_1\\Program.cs",
+              "RelativeDocumentMoniker": "AoC_24_d10_1\\Program.cs",
+              "ToolTip": "C:\\Users\\nadin\\source\\repos\\AdventOfCode\\AdventofCode2024\\AdventOfCode2024\\AoC_24_d10_1\\Program.cs",
+              "RelativeToolTip": "AoC_24_d10_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:01:00.897Z",
+              "WhenOpened": "2024-12-10T21:01:11.606Z",
               "EditorCaption": ""
             }
           ]
