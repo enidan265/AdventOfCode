@@ -1,16 +1,13 @@
 ﻿
-
 using System.ComponentModel;
 
 string[] grid = File.ReadAllLines("input.txt");
 
-// directions [y, x]
-
 Guard guard = new Guard(grid);
 
-while (guard.GuardMoving())
+while (guard.GuardIsMoving())
 {
-    guard.GuardMoving();
+    guard.GuardIsMoving();
 }
 
 Console.WriteLine(guard.Path.Count());
@@ -24,7 +21,7 @@ class Guard
     public int[] CurrentPosition { get; set; }
     public string[] Grid { get; set; }
 
-    public List<int[]> Path {  get; set; }
+    public List<int[]> Path { get; set; }
 
     public Guard(string[] grid)
     {
@@ -34,7 +31,7 @@ class Guard
         CurrentPosition = InitializeCurrentPosition(Grid);
     }
 
-    public bool GuardMoving()
+    public bool GuardIsMoving()
     {
         int y = 0;
         int x = 0;
@@ -47,7 +44,7 @@ class Guard
             case '>':
                 y = CurrentPosition[0];
                 x = CurrentPosition[1] + 1;
-                break; 
+                break;
             case 'v':
                 y = CurrentPosition[0] + 1;
                 x = CurrentPosition[1];
@@ -59,10 +56,10 @@ class Guard
             default:
                 throw new InvalidDataException();
         }
-        
-        if(!GuardLeftArea(x, y))
+
+        if (!HasGuardLeftArea(x, y))
         {
-            CheckNextPosition(y, x);
+            GuardMovesToNextPosition(y, x);
         }
         else
         {
@@ -71,8 +68,7 @@ class Guard
         return true;
     }
 
-
-    private void CheckNextPosition(int y, int x) 
+    private void GuardMovesToNextPosition(int y, int x)
     {
         if (Grid[y][x] == '.' || Grid[y][x] == '^')
         {
@@ -105,9 +101,9 @@ class Guard
         }
     }
 
-    private bool GuardLeftArea(int y, int x)
+    private bool HasGuardLeftArea(int y, int x)
     {
-        if(y < 0 || y >= Grid.Length || x < 0 || x >= Grid[0].Length)
+        if (y < 0 || y >= Grid.Length || x < 0 || x >= Grid[0].Length)
         {
             return true;
         }
@@ -137,13 +133,3 @@ class Guard
         return currentPosition;
     }
 }
-
-
-
-
-
-
-
-
-
-
