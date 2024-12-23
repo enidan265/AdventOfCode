@@ -1,7 +1,9 @@
 <p><h1>🎄 Advent of Code</h1></p>
 
-<i> My solutions to the daily programming challenges that are published every December</i> 🧑‍💻✨
+<i> My solutions to the daily programming challenges that are published every December🧑‍💻✨<br>
+<a href="https://adventofcode.com/" target="_blank">Go to AdventOfCode</a>
 
+</i> 
 <h2>🌟 My progress</h2>
 
 <table>
